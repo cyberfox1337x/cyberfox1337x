@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Sergio Marquina (aka cyberfox1337x)</h1>
+<h1 align="center">Hi 👋, I'm cyberfox1337x</h1>
 
 <h3 align="center">
 A passionate Software Engineer & UX Designer specializing in Cybersecurity and Network Administration.
