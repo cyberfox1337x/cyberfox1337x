@@ -27,8 +27,7 @@ I’m a **hands-on builder** who loves combining creativity with technology to s
 
 I’m currently focused on:
 - 🔭 Developing **Master Control Center** a personal security and automation project  
-- 🌱 Learning advanced **Python** and improving scripting for automation  
-- ⚙️ Experimenting with **AI-assisted security testing** tools  
+- 🌱 Learning advanced **Python** and improving scripting for automation    
 - 🎨 Designing cleaner, faster user interfaces that feel as good as they look  
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
@@ -36,7 +35,7 @@ I’m currently focused on:
 ---
 
 ### 🧠 About Me
-- 💡 Passionate about **cybersecurity**, **network defense**, and **ethical hacking**  
+- 💡 Passionate about **cybersecurity**, **network defense** 
 - 🧑‍💻 Skilled at creating **scalable web apps** using modern technologies  
 - 🎨 UX-focused: bridging **security** and **design** to make tools intuitive and safe  
 - 🌐 Enthusiastic about **network administration** and **system optimization**
