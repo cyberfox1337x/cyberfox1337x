@@ -27,7 +27,7 @@ I’m a **hands-on builder** who loves combining creativity with technology to s
 
 I’m currently focused on:
 - 🔭 Developing **Master Control Center** a personal security and automation project  
-- 🌱 Learning advanced **Python** and improving scripting for automation    
+- 🌱 Learning advanced **Python** and improving scripting    
 - 🎨 Designing cleaner, faster user interfaces that feel as good as they look  
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
