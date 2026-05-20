@@ -45,7 +45,7 @@ I’m currently focused on:
 ### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,typescript,nodejs,lua,html,css,bootstrap,figma,docker,git,linux,aws,java,php" />
+  <img src="https://skillicons.dev/icons?i=python,js,typescript,nodejs,lua,html,css,bootstrap,figma,docker,git,linux,aws,java,php" title="Python 90%, JavaScript 85%, TypeScript 75%, Node.js 80%, Lua 60%, HTML 95%, CSS 90%, Bootstrap 75%, Figma 70%, Docker 65%, Git 85%, Linux 80%, AWS 60%, Java 70%, PHP 65%" />
 </p>
 
 ---
