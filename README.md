@@ -48,11 +48,6 @@ I’m currently focused on:
   <img src="https://skillicons.dev/icons?i=python,js,typescript,nodejs,lua,html,css,bootstrap,figma,docker,git,linux,aws" />
 </p>
 
-
----
-
-
-
 ---
 
 > “Security and design are not opposites — they’re partners in building systems people can trust.”
