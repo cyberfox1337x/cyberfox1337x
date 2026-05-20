@@ -50,7 +50,7 @@ I’m currently focused on:
 
 ---
 
-> “Security and design are not opposites — they’re partners in building systems people can trust.”
+> “Security and design are not opposites they’re partners in building systems people can trust.”
 
 ---
 
