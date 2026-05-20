@@ -45,21 +45,7 @@ I’m currently focused on:
 ### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" width="90" title="Python 90%" />
-<img src="https://skillicons.dev/icons?i=js" width="85" title="JavaScript 85%" />
-<img src="https://skillicons.dev/icons?i=typescript" width="75" title="TypeScript 75%" />
-<img src="https://skillicons.dev/icons?i=nodejs" width="80" title="Node.js 80%" />
-<img src="https://skillicons.dev/icons?i=lua" width="60" title="Lua 60%" />
-<img src="https://skillicons.dev/icons?i=html" width="95" title="HTML 95%" />
-<img src="https://skillicons.dev/icons?i=css" width="90" title="CSS 90%" />
-<img src="https://skillicons.dev/icons?i=bootstrap" width="75" title="Bootstrap 75%" />
-<img src="https://skillicons.dev/icons?i=figma" width="70" title="Figma 70%" />
-<img src="https://skillicons.dev/icons?i=docker" width="65" title="Docker 65%" />
-<img src="https://skillicons.dev/icons?i=git" width="85" title="Git 85%" />
-<img src="https://skillicons.dev/icons?i=linux" width="80" title="Linux 80%" />
-<img src="https://skillicons.dev/icons?i=aws" width="60" title="AWS 60%" />
-<img src="https://skillicons.dev/icons?i=java" width="70" title="Java 70%" />
-<img src="https://skillicons.dev/icons?i=php" width="65" title="PHP 65%" />
+ <img src="https://skillicons.dev/icons?i=python,js,typescript,nodejs,lua,html,css,bootstrap,figma,docker,git,linux,aws,java,php" />
 </p>
 
 ---
