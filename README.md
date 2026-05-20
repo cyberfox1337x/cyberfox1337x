@@ -26,19 +26,19 @@ A passionate Software Engineer & UX Designer specializing in Cybersecurity and N
 I’m a **hands-on builder** who loves combining creativity with technology to solve real-world problems. My focus spans **software engineering**, **user experience**, and **cybersecurity**, helping me design and secure efficient digital systems.
 
 I’m currently focused on:
-- 🔭 Developing **Master Control Center** a personal security and automation project  
-- 🌱 Learning advanced **Python** and improving scripting    
-- 🎨 Designing cleaner, faster user interfaces that feel as good as they look  
+- Developing **Master Control Center** a personal security and automation project  
+- Learning advanced **Python** and improving scripting    
+- Designing cleaner, faster user interfaces that feel as good as they look  
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ---
 
 ### 🧠 About Me
-- 💡 Passionate about **cybersecurity**, **network defense** 
-- 🧑‍💻 Skilled at creating **scalable web apps** using modern technologies  
-- 🎨 UX-focused: bridging **security** and **design** to make tools intuitive and safe  
-- 🌐 Enthusiastic about **network administration** and **system optimization**
+- Passionate about **cybersecurity**, **network defense** 
+- Skilled at creating **scalable web apps** using modern technologies  
+- UX-focused: bridging **security** and **design** to make tools intuitive and safe  
+- Enthusiastic about **network administration** and **system optimization**
 
 ---
 
